@@ -1,0 +1,46 @@
+/* class**/
+
+/*.star_html:hover{
+    color: rgb(236, 9, 47);
+    font-size: 30px;
+   font-weight: bold;
+   font-family: sans-serif;
+   font-weight:500;
+    
+}*/
+.star_html{
+    font-size: 10px;
+    font-family: sans-serif;
+}
+.contact_me{
+width: 200px;
+height: 40px;
+position: relative;
+margin: 10px auto 10px auto;
+
+border-radius: 10px;
+padding-top: 1%;
+text-align: center;
+-webkit-box-shadow: 0 10px 6px -6px #777;
+-moz-box-shadow: 0 10px 6px -6px #777;
+box-shadow: 0 10px 6px -6px #777;
+
+
+}
+
+.links_to_app{
+    background-color: white;
+    width: 400px;
+height: 100px;
+text-align: center;
+padding-left: 100px;
+position: relative ;
+left: 35%;
+
+
+
+}
+
+
+
+
