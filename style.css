@@ -352,6 +352,11 @@ border-radius: 10px;
     
   }
 
+  .payrollimage{
+    border-radius: 5%;
+    width: 500px;
+  }
+
   
   .undemyimage{
     margin-left: 95%;
@@ -406,6 +411,11 @@ border-radius: 10px;
   .imageschange2 {
     width: 450px; 
     height: 400px;
+  }
+
+  .payrollimage{
+    border-radius: 5%;
+    width: 200px;
   }
 
   .appdisc{
