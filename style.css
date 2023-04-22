@@ -357,7 +357,11 @@ border-radius: 10px;
     width: 500px;
   }
 
-  
+  .payrollimage2{
+    border-radius: 0%;
+    width: 400px;
+  }
+
   .undemyimage{
     margin-left: 95%;
     border-radius: 10px;
