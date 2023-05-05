@@ -5,6 +5,9 @@
 margin: 2%;
 }
 
+.backgroundlearnerandteacher{
+  background-image: url("images/bg.jpg");
+}
 #aboutskills{
   color: aliceblue;
   font-family:'Courier New', Courier, monospace;
@@ -131,8 +134,9 @@ body{
   }
   
   .about-section .description {
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 10px;
+    
     line-height: 1.5;
   }
 h1{
